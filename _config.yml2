@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://rokjan.github.io
-title: Sinergia Libre
-subtitle: Un blog con destellos utópicos de Software Libre
-author: Juanjo Rokjan
+url: http://yoursite.com
+title: My Octopress Blog
+subtitle: A blogging framework for hackers.
+author: Your Name
 simple_search: http://google.com/search
-description: gnu, linux, asterisk, symgony, bolivia
+description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -16,10 +16,10 @@ description: gnu, linux, asterisk, symgony, bolivia
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-##subscribe_rss: /atom.xml
-##subscribe_email:
+subscribe_rss: /atom.xml
+subscribe_email:
 # RSS feeds can list your email address if you like
-##email:
+email:
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -69,7 +69,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user: rokjan
+twitter_user:
 twitter_tweet_button: true
 
 # Google +1
